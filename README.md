@@ -8,14 +8,15 @@ Playground for examining functional relationships proposed in coastal sediments 
 * Holland, K.T. and Elmore, P.A., 2008. A review of heterogeneous sediments in coastal environments. Earth-Science Reviews, 89(3-4), pp.116-134.
 * Buscombe, D. and Masselink, G., 2006. Concepts in gravel beach dynamics. Earth-Science Reviews, 79(1-2), pp.33-52.
 * Fellowes, T.E., Vila-Concejo, A. and Gallop, S.L., 2019. Morphometric classification of swell-dominated embayed beaches. Marine Geology, 411, pp.78-87.
+* Leonardi, N., Carnacina, I., Donatelli, C., Ganju, N.K., Plater, A.J., Schuerch, M. and Temmerman, S., 2018. Dynamic interactions between coastal storms and salt marshes: A review. Geomorphology, 301, pp.92-107.
+* https://www.nature.com/articles/s41598-018-25437-1
 
 ## Sediment sorting modeling
 * Huisman, B.J.A., Ruessink, B.G., De Schipper, M.A., Luijendijk, A.P. and Stive, M.J.F., 2018. Modelling of bed sediment composition changes at the lower shoreface of the Sand Motor. Coastal Engineering, 132, pp.33-49.
 
 
 ## Temporal grain size variability
-* Zhao, S., Qi, H., Cai, F., Zhu, J., Zhou, X. and Lei, G., 2020. Morphological and sedimentary features of sandy‐muddy transitional beaches in estuaries and bays along mesotidal to macrotidal coasts. Earth Surface Processes and Landforms, 45(7), pp.1660-1676.
-*
+* Castagno, K.A., Donnelly, J.P. and Woodruff, J.D., 2021. Grain-Size Analysis of Hurricane-Induced Event Beds in a New England Salt Marsh, Massachusetts, USA. Journal of Coastal Research, 37(2), pp.326-335.
 * Buscombe, D., Rubin, D.M., Lacy, J.R., Storlazzi, C.D., Hatcher, G., Chezar, H., Wyland, R. and Sherwood, C.R., 2014. Autonomous bed‐sediment imaging‐systems for revealing temporal variability of grain size. Limnology and Oceanography: Methods, 12(6), pp.390-406.
 
 * Prodger, S., Russell, P., Davidson, M., Miles, J. and Scott, T., 2016. Understanding and predicting the temporal variability of sediment grain size characteristics on high-energy beaches. Marine Geology, 376, pp.109-117.
@@ -44,3 +45,11 @@ Playground for examining functional relationships proposed in coastal sediments 
 * Atkinson, J. and Esteves, L.S., 2018. Alongshore variability in the response of a mixed sand and gravel beach to bimodal wave direction. Geosciences, 8(12), p.488.
 
 * Garlan, T., Almar, R., Gauduin, H., Gosselin, M., Morio, O. and Labarthe, C., 2020. 3D variability of Sediment Granulometry in Two Tropical Environments: Nha Trang (Vietnam) and Saint-Louis (Sénégal). Journal of Coastal Research, 95(SI), pp.495-499.
+
+* Benmoussa, T., Amrouni, O., Dezileau, L., Mahé, G. and Abdeljaouad, S., 2018. The sedimentological changes caused by human impact at the artificial channel of Medjerda-River (Coastal zone of Medjerda, Tunisia). Proceedings of the International Association of Hydrological Sciences, 377, pp.77-81.
+
+* Zhao, S., Qi, H., Cai, F., Zhu, J., Zhou, X. and Lei, G., 2020. Morphological and sedimentary features of sandy‐muddy transitional beaches in estuaries and bays along mesotidal to macrotidal coasts. Earth Surface Processes and Landforms, 45(7), pp.1660-1676.
+
+* Nugroho, S.H. and Putra, P.S., 2018. Spatial distribution of grain size and depositional process in tidal area along Waikelo Beach, Sumba. Marine Georesources & Geotechnology, 36(3), pp.299-307.
+
+
