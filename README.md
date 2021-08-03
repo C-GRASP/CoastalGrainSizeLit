@@ -10,11 +10,17 @@ Playground for examining functional relationships proposed in coastal sediments 
 * Fellowes, T.E., Vila-Concejo, A. and Gallop, S.L., 2019. Morphometric classification of swell-dominated embayed beaches. Marine Geology, 411, pp.78-87.
 * Leonardi, N., Carnacina, I., Donatelli, C., Ganju, N.K., Plater, A.J., Schuerch, M. and Temmerman, S., 2018. Dynamic interactions between coastal storms and salt marshes: A review. Geomorphology, 301, pp.92-107.
 * https://www.nature.com/articles/s41598-018-25437-1
+* Sherwood, C.R., van Dongeren, A., Doyle, J., Hegermiller, C.A., Hsu, T.J., Kalra, T.S., Olabarrieta, M., Penko, A.M., Rafati, Y., Roelvink, D. and van der Lugt, M., 2021. Modeling the Morphodynamics of Coastal Responses to Extreme Events: What Shape Are We In?.
+* Owens, P.N., Blake, W.H., Gaspar, L., Gateuille, D., Koiter, A.J., Lobb, D.A., Petticrew, E.L., Reiffarth, D.G., Smith, H.G. and Woodward, J.C., 2016. Fingerprinting and tracing the sources of soils and sediments: Earth and ocean science, geoarchaeological, forensic, and human health applications. Earth-Science Reviews, 162, pp.1-23.
+* McLachlan, A., Defeo, O. and Short, A.D., 2018. Characterising sandy beaches into major types and states: Implications for ecologists and managers. Estuarine, Coastal and Shelf Science, 215, pp.152-160.
+* Degli, E.I., Defeo, O. and Scapini, F., 2021. Arthropodofauna richness and abundance across beach–dune systems with contrasting morphodynamics. Regional Studies in Marine Science, 44, p.101722.
+* de Schipper, M.A., Ludka, B.C., Raubenheimer, B., Luijendijk, A.P. and Schlacher, T.A., 2021. Beach nourishment has complex implications for the future of sandy shores. Nature Reviews Earth & Environment, 2(1), pp.70-84.
+* Gallagher, E., Wadman, H., McNinch, J., Reniers, A. and Koktas, M., 2016. A conceptual model for spatial grain size variability on the surface of and within beaches. Journal of Marine Science and Engineering, 4(2), p.38.
 
 ## Sediment sorting modeling
 * Huisman, B.J.A., Ruessink, B.G., De Schipper, M.A., Luijendijk, A.P. and Stive, M.J.F., 2018. Modelling of bed sediment composition changes at the lower shoreface of the Sand Motor. Coastal Engineering, 132, pp.33-49.
 * Ward, S.L., Scourse, J.D., Yokoyama, Y. and Neill, S.P., 2020. The challenges of constraining shelf sea tidal models using seabed sediment grain size as a proxy for tidal currents. Continental Shelf Research, 205, p.104165.
-
+* Zhou, Z., Liu, Q., Fan, D., Coco, G., Gong, Z., Möller, I., Xu, F., Townend, I. and Zhang, C., Simulating the role of tides and sediment characteristics on tidal flat sorting and bedding dynamics. Earth Surface Processes and Landforms.
 
 ## Temporal grain size variability
 * Castagno, K.A., Donnelly, J.P. and Woodruff, J.D., 2021. Grain-Size Analysis of Hurricane-Induced Event Beds in a New England Salt Marsh, Massachusetts, USA. Journal of Coastal Research, 37(2), pp.326-335.
@@ -53,4 +59,8 @@ Playground for examining functional relationships proposed in coastal sediments 
 
 * Nugroho, S.H. and Putra, P.S., 2018. Spatial distribution of grain size and depositional process in tidal area along Waikelo Beach, Sumba. Marine Georesources & Geotechnology, 36(3), pp.299-307.
 
+* https://scholars.unh.edu/cgi/viewcontent.cgi?article=2411&context=ccom
 
+* Huisman, B.J.A., De Schipper, M.A. and Ruessink, B.G., 2016. Sediment sorting at the Sand Motor at storm and annual time scales. Marine Geology, 381, pp.209-226.
+
+* Gunaratna, T., Suzuki, T. and Yanagishima, S., 2019. Cross-shore grain size and sorting patterns for the bed profile variation at a dissipative beach: Hasaki Coast, Japan. Marine Geology, 407, pp.111-120.
