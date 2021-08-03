@@ -13,6 +13,7 @@ Playground for examining functional relationships proposed in coastal sediments 
 
 ## Sediment sorting modeling
 * Huisman, B.J.A., Ruessink, B.G., De Schipper, M.A., Luijendijk, A.P. and Stive, M.J.F., 2018. Modelling of bed sediment composition changes at the lower shoreface of the Sand Motor. Coastal Engineering, 132, pp.33-49.
+* Ward, S.L., Scourse, J.D., Yokoyama, Y. and Neill, S.P., 2020. The challenges of constraining shelf sea tidal models using seabed sediment grain size as a proxy for tidal currents. Continental Shelf Research, 205, p.104165.
 
 
 ## Temporal grain size variability
